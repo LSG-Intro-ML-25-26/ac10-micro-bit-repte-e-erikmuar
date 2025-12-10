@@ -1,5 +1,5 @@
 {
-    "name": "Repte 7 gota",
+    "name": "microbit-template-repo-python",
     "description": "",
     "dependencies": {
         "core": "*",
